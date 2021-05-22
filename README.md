@@ -19,15 +19,11 @@ Here are some ideas to get you started:
   <img align="left"  alt="Rajiv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/r.ranjan.007/">
-  <img align="left" alt="Rajiv's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=cool-monk)
 
 <br />
 
-Hi, I'm [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/), a Full Stack Developer 🚀 from Nepal looking for the New Role.
+Hi, I'm [Nirajan Jha](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/), a Full Stack Developer 🚀 from Nepal looking for the New Role.
 
   <img align="right" alt="GIF" src="https://github.com/cool-monk/cool-monk/blob/master/code.gif" width="500" height="250" />
 
@@ -36,9 +32,7 @@ Hi, I'm [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/), a Fu
 
 - 💬 &nbsp;Ask me about NodeJS, ReactJS
 
-- 📫 &nbsp;How to reach me: [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/);
-
-- 📝 &nbsp;[Resume](https://drive.google.com/file/d/1RzKT_dMIEj1M4WjjSHhRzkFADf0R3IX1/view?usp=sharing)
+- 📫 &nbsp;How to reach me: [Nirajan Jha](https://www.linkedin.com/in/nirajan-jha-562209126/);
 
 **Languages and Tools:**
 
@@ -53,7 +47,7 @@ Hi, I'm [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/), a Fu
 ### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="20"> A little more about me...
 
 ```javascript
-const rajivRanjan = {
+const nirajanjha = {
   updatingMyself: [ReactJS],
   code: [
     JavaScript,
